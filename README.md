@@ -1,4 +1,4 @@
-# OpenShift GitOps ハンズオン
+# OpenShift GitOps ハンズオン!
 本リポジトリは、OpenShift GitOps (Argo CD) のハンズオン資料と、ハンズオンにおいて利用するマニフェストを格納しています。
 
 
